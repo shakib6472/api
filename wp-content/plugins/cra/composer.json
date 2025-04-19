@@ -1,0 +1,15 @@
+{
+    "name": "shakib/credit-report-analyzer",
+    "description": "A WordPress plugin to analyze credit reports and provide insights.",
+    "type": "wordpress-plugin",
+    "require": {
+      "smalot/pdfparser": "^0.16.1",
+      "dompdf/dompdf": "^2.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "CRA\\": "includes/"
+      }
+    }
+  }
+  

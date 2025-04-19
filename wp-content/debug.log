@@ -1,0 +1,14 @@
+[19-Apr-2025 05:37:06 UTC] stdClass Object
+(
+    [id] => 3
+    [user_id] => 1
+    [file_name] => 
+    [file_type] => 
+    [report_data] => {"credit_score":"580","account_count":"12","negative_marks":"3","utilization":"30","dti":"45","notes":"a"}
+    [uploaded_at] => 2025-04-19 03:57:23
+)
+
+[19-Apr-2025 05:41:29 UTC] Manual entry handler triggered
+[19-Apr-2025 05:41:29 UTC] Manual report saved successfully!
+[19-Apr-2025 11:20:05 UTC] Automatic updates starting...
+[19-Apr-2025 11:20:07 UTC] Automatic updates complete.
